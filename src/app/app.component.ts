@@ -9,7 +9,7 @@ import 'rxjs/Rx';
 export class AppComponent {
   title = 'Observable';
   constructor() {
-    this.test2();
+    
   }
 
   test3() { // doesn't work
